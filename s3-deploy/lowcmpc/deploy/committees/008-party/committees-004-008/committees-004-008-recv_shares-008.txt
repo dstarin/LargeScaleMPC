@@ -1,0 +1,34 @@
+(1) player 8
+h = 0
+1: gen(0,1)
+2: gen(0,2)
+3: gen(0,3)
+4: gen(0,4)
+5: recv(5)
+6: gen(0,6)
+7: gen(0,7)
+8: gen_local
+h = 1
+-
+h = 2
+1: gen(2,1)
+2: gen(2,2)
+3: gen(2,3)
+4: gen(2,4)
+5: recv(5)
+6: gen(2,6)
+7: gen(2,7)
+8: gen_local
+h = 3
+-
+h = 4
+1: gen(4,1)
+2: gen(4,2)
+3: gen(4,3)
+4: gen(4,4)
+5: recv(5)
+6: gen(4,6)
+7: gen(4,7)
+8: gen_local
+h = 5
+-

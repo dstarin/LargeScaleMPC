@@ -1,0 +1,54 @@
+1 0 0 gen_local
+1 0 0 gen_local
+1 0 0 gen_local
+1 0 0 gen_local
+1 0 0 gen_local
+1 0 0 gen_local
+1 0 0 gen_local
+1 0 0 gen_local
+
+1 0 1 gen_local
+1 0 1 gen_local
+1 0 1 gen_local
+1 0 1 gen_local
+1 0 1 gen_local
+1 0 1 gen_local
+1 0 1 gen_local
+1 0 1 gen_local
+
+1 0 2 gen_local
+1 0 2 gen_local
+1 0 2 gen_local
+1 0 2 gen_local
+1 0 2 gen_local
+1 0 2 gen_local
+1 0 2 gen_local
+1 0 2 gen_local
+
+1 0 3 gen_local
+1 0 3 gen_local
+1 0 3 gen_local
+1 0 3 gen_local
+1 0 3 gen_local
+1 0 3 gen_local
+1 0 3 gen_local
+1 0 3 gen_local
+
+1 0 4 gen_local
+1 0 4 gen_local
+1 0 4 gen_local
+1 0 4 gen_local
+1 0 4 gen_local
+1 0 4 gen_local
+1 0 4 gen_local
+1 0 4 gen_local
+
+1 0 5 gen_local
+1 0 5 gen_local
+1 0 5 gen_local
+1 0 5 gen_local
+1 0 5 gen_local
+1 0 5 gen_local
+1 0 5 gen_local
+1 0 5 gen_local
+

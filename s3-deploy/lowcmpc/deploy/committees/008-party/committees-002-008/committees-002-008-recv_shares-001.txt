@@ -1,0 +1,20 @@
+(4) player 1
+h = 0
+-
+h = 1
+-
+h = 2
+-
+h = 3
+1: gen_local
+2: recv(2)
+3: gen(3,3)
+4: gen(3,4)
+5: recv(5)
+6: gen(3,6)
+7: recv(7)
+8: gen(3,8)
+h = 4
+-
+h = 5
+-

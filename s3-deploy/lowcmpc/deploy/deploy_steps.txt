@@ -1,0 +1,21 @@
+- update lowcmpc.enc with latest player binary
+
+- terraform apply
+
+- python3 get_ips.py
+
+- sudo emacs /etc/hosts
+- rm ~/.ssh/known_hosts
+
+- save new hosts from get_ips.py into hosts file
+- deploy_file.sh hosts 32
+
+- append_hosts.sh 32
+
+#- ./deploy_file.sh ~/dstarin/research/lowcmpc/src/tests/f_triples/build/player 8
+
+- run_player.sh 32
+
+- pull_logs.sh 32
+
+- terraform destroy
