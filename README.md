@@ -1,1 +1,6 @@
-# lowcmpc
+The More The Merrier: Reducing the Cost of Large Scale MPC<br/>
+S. Dov Gordon, Daniel Starin, Arkady Yerukhimovich<br/>
+EUROCRYPT 2021, to appear<br/>
+https://eprint.iacr.org/2021/303
+
+Secure multi-party computation (MPC) allows multiple parties to perform secure joint computations on their private inputs. Today, applications for MPC are growing with thousands of parties wishing to build federated machine learning models or trusted setups for blockchains. To address such scenarios we propose a suite of novel MPC protocols that maximize throughput when run with large numbers of parties. In particular, our protocols have both communication and computation complexity that decrease with the number of parties. Our protocols build on prior protocols based on packed secret-sharing, introducing new techniques to build more efficient computation for general circuits. Specifically, we introduce a new approach for handling linear attacks that arise in protocols using packed secret-sharing and we propose a method for unpacking shared multiplication triples without increasing the asymptotic costs. Compared with prior work, we avoid the log|C| overhead required when generically compiling circuits of size |C| for use in a SIMD computation, and we improve over folklore "committee-based" solutions by a factor of O(s), the statistical security parameter. In practice, our protocol is up to 10X faster than any known construction, under a reasonable set of parameters.
